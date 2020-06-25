@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wordscalingexampels/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/wordscalingexampels/static/js/main.d91ebf16.chunk.js",
+    "main.js.map": "/wordscalingexampels/static/js/main.d91ebf16.chunk.js.map",
+    "runtime-main.js": "/wordscalingexampels/static/js/runtime-main.1686b068.js",
+    "runtime-main.js.map": "/wordscalingexampels/static/js/runtime-main.1686b068.js.map",
+    "static/js/2.c606e5ac.chunk.js": "/wordscalingexampels/static/js/2.c606e5ac.chunk.js",
+    "static/js/2.c606e5ac.chunk.js.map": "/wordscalingexampels/static/js/2.c606e5ac.chunk.js.map",
+    "index.html": "/wordscalingexampels/index.html",
+    "precache-manifest.9d7ef43be75920dacb1c3907c897753e.js": "/wordscalingexampels/precache-manifest.9d7ef43be75920dacb1c3907c897753e.js",
+    "service-worker.js": "/wordscalingexampels/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/wordscalingexampels/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c606e5ac.chunk.js.LICENSE.txt": "/wordscalingexampels/static/js/2.c606e5ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1686b068.js",
+    "static/js/2.c606e5ac.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d91ebf16.chunk.js"
+  ]
+}
