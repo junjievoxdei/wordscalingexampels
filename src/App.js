@@ -57,7 +57,7 @@ class App extends React.Component {
 
     getFile() {
         this.myFile = (this.myFile + 1) % this.myFiles.length;
-        let serversite = "http://172.31.9.76:34167/files/"
+        let serversite = "http://lexikat-beta.com:5000/files/"
         let newFile = serversite + this.myFiles[this.myFile];
         
         fetch(newFile)

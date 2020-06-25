@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wordscalingexampels/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/wordscalingexampels/static/js/main.a6532261.chunk.js",
-    "main.js.map": "/wordscalingexampels/static/js/main.a6532261.chunk.js.map",
+    "main.js": "/wordscalingexampels/static/js/main.3eec9a4a.chunk.js",
+    "main.js.map": "/wordscalingexampels/static/js/main.3eec9a4a.chunk.js.map",
     "runtime-main.js": "/wordscalingexampels/static/js/runtime-main.1686b068.js",
     "runtime-main.js.map": "/wordscalingexampels/static/js/runtime-main.1686b068.js.map",
     "static/js/2.c606e5ac.chunk.js": "/wordscalingexampels/static/js/2.c606e5ac.chunk.js",
     "static/js/2.c606e5ac.chunk.js.map": "/wordscalingexampels/static/js/2.c606e5ac.chunk.js.map",
     "index.html": "/wordscalingexampels/index.html",
-    "precache-manifest.2a70da504228cd54c04a02aa67954d64.js": "/wordscalingexampels/precache-manifest.2a70da504228cd54c04a02aa67954d64.js",
+    "precache-manifest.6d9948de684c5ad05064fd2c8b02ed24.js": "/wordscalingexampels/precache-manifest.6d9948de684c5ad05064fd2c8b02ed24.js",
     "service-worker.js": "/wordscalingexampels/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/wordscalingexampels/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.c606e5ac.chunk.js.LICENSE.txt": "/wordscalingexampels/static/js/2.c606e5ac.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1686b068.js",
     "static/js/2.c606e5ac.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.a6532261.chunk.js"
+    "static/js/main.3eec9a4a.chunk.js"
   ]
 }
