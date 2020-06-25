@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a387dadd88383d2b0924695f600dcae",
+    "revision": "329b1311f3a9384f4992756012e1797f",
     "url": "/wordscalingexampels/index.html"
   },
   {
-    "revision": "64d0592b79c0f4f57ac5",
+    "revision": "061b4cced2a453c1b933",
     "url": "/wordscalingexampels/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wordscalingexampels/static/js/2.c606e5ac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "64d0592b79c0f4f57ac5",
-    "url": "/wordscalingexampels/static/js/main.a6532261.chunk.js"
+    "revision": "061b4cced2a453c1b933",
+    "url": "/wordscalingexampels/static/js/main.3eec9a4a.chunk.js"
   },
   {
     "revision": "1f08feeae8b0e9a9cdff",
